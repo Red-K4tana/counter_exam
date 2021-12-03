@@ -1,0 +1,27 @@
+.button {
+    margin: 5px 3px;
+    border: 0px solid;
+    border-radius: 5px;
+    box-shadow: 0 0 5px 1px #70c3e0;
+    color: #17394a;
+    background-color: #5594aa;
+    width: 80px;
+    height: 20px;
+    font-size: 15px;
+    transition: .2s box-shadow;
+}
+.button:hover {
+    box-shadow: 0 0 5px 1px #5594aa;
+    background-color: #427585;
+    transition: .2s box-shadow;
+}
+.button:active {
+    box-shadow: 0 0 10px 5px #5594aa;
+    background-color: #497e90;
+    border: 2px solid #355a68;
+}
+.button:disabled {
+    box-shadow: 0 0 5px 1px #fff;
+    background-color: #5fa5bd;
+    color: #577d88;
+}

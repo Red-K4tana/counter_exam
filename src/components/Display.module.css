@@ -1,0 +1,21 @@
+.display {
+    margin: 10px;
+    border: 2px solid #cfa542;
+    border-radius: 5%;
+    width: auto;
+    height: 80px;
+    color: #0b2838;
+    font-size: 40px;
+    background-color: #428aba;
+}
+
+.displayOver {
+    margin: 10px;
+    border: 2px solid #cfa542;
+    border-radius: 5%;
+    width: auto;
+    height: 80px;
+    color: #c11515;
+    font-size: 45px;
+    background-color: #428aba;
+}
