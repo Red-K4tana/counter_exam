@@ -1,0 +1,19 @@
+
+
+.main {
+    margin: 300px;
+    width: 200px;
+    height: 150px;
+    border: 2px solid #c0db48;
+    border-radius: 5%;
+}
+
+.buttons {
+    display: flex;
+    justify-content: space-between;
+    margin: 5px;
+    width: auto;
+    height: 40px;
+
+    border-radius: 5%;
+}
